@@ -1,0 +1,12 @@
+# Datasets
+dataset/
+dataset/images/
+dataset/masks/
+dataset/*
+
+# Zips
+*.zip
+
+# Colab checkpoints
+.ipynb_checkpoints/
+dataset/.ipynb_checkpoints/
