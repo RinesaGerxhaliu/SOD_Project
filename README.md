@@ -59,8 +59,9 @@ dataset/
       ├── val/
       └── test/
 ```
+The project uses the **ECSSD dataset**, available here:  
+[Download ECSSD Dataset](https://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
 
-The project uses the **ECSSD dataset**.  
 Images and masks are automatically resized to **224×224**, normalized to **[0, 1]**, and preprocessed in the code.
 
 ---
@@ -167,3 +168,4 @@ This is useful for quick testing and for the project presentation.
 
 **Rinesa Gerxhaliu**  
 Xponian Program – AI Engineering Stream
+
